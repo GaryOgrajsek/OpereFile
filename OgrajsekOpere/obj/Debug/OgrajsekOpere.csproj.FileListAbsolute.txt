@@ -1,0 +1,15 @@
+E:\JoseppeO\Documents\Gary\Scuola\inf\OgrajsekOpere\OgrajsekOpere\obj\Debug\OgrajsekOpere.csprojAssemblyReference.cache
+E:\JoseppeO\Documents\Gary\Scuola\inf\OgrajsekOpere\OgrajsekOpere\obj\Debug\Opere.Form1.resources
+E:\JoseppeO\Documents\Gary\Scuola\inf\OgrajsekOpere\OgrajsekOpere\obj\Debug\OgrajsekOpere.Properties.Resources.resources
+E:\JoseppeO\Documents\Gary\Scuola\inf\OgrajsekOpere\OgrajsekOpere\obj\Debug\OgrajsekOpere.csproj.GenerateResource.cache
+E:\JoseppeO\Documents\Gary\Scuola\inf\OgrajsekOpere\OgrajsekOpere\obj\Debug\OgrajsekOpere.csproj.CoreCompileInputs.cache
+C:\Users\Gary Ograjsek\Downloads\OpereV2-master\OpereV2-master\OgrajsekOpere\obj\Debug\OgrajsekOpere.csprojAssemblyReference.cache
+C:\Users\Gary Ograjsek\Downloads\OpereV2-master\OpereV2-master\OgrajsekOpere\obj\Debug\Opere.Form1.resources
+C:\Users\Gary Ograjsek\Downloads\OpereV2-master\OpereV2-master\OgrajsekOpere\obj\Debug\OgrajsekOpere.Properties.Resources.resources
+C:\Users\Gary Ograjsek\Downloads\OpereV2-master\OpereV2-master\OgrajsekOpere\obj\Debug\OgrajsekOpere.csproj.GenerateResource.cache
+C:\Users\Gary Ograjsek\Downloads\OpereV2-master\OpereV2-master\OgrajsekOpere\obj\Debug\OgrajsekOpere.csproj.CoreCompileInputs.cache
+C:\Users\Gary Ograjsek\Downloads\OpereV2-master\OpereV2-master\OgrajsekOpere\bin\Debug\OgrajsekOpere.exe.config
+C:\Users\Gary Ograjsek\Downloads\OpereV2-master\OpereV2-master\OgrajsekOpere\bin\Debug\OgrajsekOpere.exe
+C:\Users\Gary Ograjsek\Downloads\OpereV2-master\OpereV2-master\OgrajsekOpere\bin\Debug\OgrajsekOpere.pdb
+C:\Users\Gary Ograjsek\Downloads\OpereV2-master\OpereV2-master\OgrajsekOpere\obj\Debug\OgrajsekOpere.exe
+C:\Users\Gary Ograjsek\Downloads\OpereV2-master\OpereV2-master\OgrajsekOpere\obj\Debug\OgrajsekOpere.pdb
